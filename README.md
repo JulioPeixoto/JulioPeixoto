@@ -1,1 +1,1 @@
-Brazilian, building software and ai stuffs.
+Brazilian, building software and ai apps.
