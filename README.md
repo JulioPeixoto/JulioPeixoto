@@ -3,7 +3,7 @@
 <li>Brazilian, 24</li>
 <li>Software Engineer Consultant at EY Brazil</li>
 <li>2-3y Experience in <b>Backend Engineer and AI Engineer</b> at top FSO companies in Brazil</li>
-<li>Reaserch Tiradentes University</li>
+<li>Research Tiradentes University</li>
 <li>OpenSource</li>
 <li>Python w/ <b>FastAPI and Django</b></li>
 <li>TypeScript Backend w/ <b>Node, Express, Next</b></li>
