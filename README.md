@@ -1,7 +1,7 @@
 <p>Hi</p>
 <ul>
 <li>Brazilian, 24</li>
-<li>Software Engineer Consultant at EY Brazil</li>
+<li>AI Software Engineer Consultant at EY Brazil</li>
 <li>2-3y Experience in <b>Backend Engineer and AI Engineer</b> at top FSO companies in Brazil</li>
 <li>Research at Tiradentes University</li>
 <li>OpenSource</li>
