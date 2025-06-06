@@ -9,7 +9,6 @@
 <li>TypeScript Backend w/ <b>Node, Express, Next</b></li>
 <li>TypeScript Frontend w/ <b>React</b></li>
 <li><b>AWS, Azure, Vercel, CloudFlare</b></li>
-<li><b>sql, nosql, redis</b></li>  
 <li><b>Docker, K8s, Rabbitmq, ServiceBus</b></li>
 <li><b>LangChain, CrewAI, LangGraph, Hugginface</b></li>
 </ul>
