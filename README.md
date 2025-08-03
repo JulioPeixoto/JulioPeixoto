@@ -1,4 +1,7 @@
 <p>Hi</p>
+<p>Brazilian</p>
 <ul>
-<li>Brazilian</li>
+  building:
+  <li>https://www.analu.app/</li>
+  <li>https://github.com/JulioPeixoto/softrag</li>
 </ul>
